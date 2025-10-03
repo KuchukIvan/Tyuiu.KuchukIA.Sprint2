@@ -22,7 +22,7 @@ internal class Program
 
 
         Console.WriteLine("Введите значение x:");
-        double x = Convert.ToDouble(Console.ReadLine());
+        double x = Convert.ToDouble(Console.ReadLine()); 
 
         Console.WriteLine("Введите значение x:");
         double y = Convert.ToDouble(Console.ReadLine());
