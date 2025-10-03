@@ -19,7 +19,7 @@ namespace Tyuiu.KuchukIA.Sprint2.Task5.V11.Lib
                 {
                     nextG = g;
                     nextM = m + 1;
-                    nextN = 1;
+                    nextN = 01;
                 }   
                 else
                 {
@@ -90,7 +90,7 @@ namespace Tyuiu.KuchukIA.Sprint2.Task5.V11.Lib
 
             }
 
-            string res = $"{nextN}.{nextM}.{nextG}";
+            string res = $"{nextN:D2}.{nextM:D2}.{nextG}";
             return res;
         }
     }
