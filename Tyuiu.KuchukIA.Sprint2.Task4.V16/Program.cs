@@ -38,6 +38,8 @@ internal class Program
         double res = ds.Calculate(x, y);
         Console.WriteLine("y = " + res);
 
+
+
         Console.ReadKey();
 
 
