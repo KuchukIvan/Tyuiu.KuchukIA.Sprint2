@@ -19,7 +19,7 @@ namespace Tyuiu.KuchukIA.Sprint2.Task5.V11.Lib
                 {
                     nextG = g;
                     nextM = m + 1;
-                    nextN = 01;
+                    nextN = 1;
                 }   
                 else
                 {
