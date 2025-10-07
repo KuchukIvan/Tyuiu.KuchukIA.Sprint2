@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <Reference Include="tyuiu.cources.programming.interfaces">
-      <HintPath>..\..\Solution2\tyuiu.cources.programming.interfaces.dll</HintPath>
+      <HintPath>..\..\Tyuiu.KuchukIA.Sprint2\tyuiu.cources.programming.interfaces.dll</HintPath>
     </Reference>
   </ItemGroup>
 
